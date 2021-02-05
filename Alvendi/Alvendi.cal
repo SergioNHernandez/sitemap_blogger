@@ -1,0 +1,20 @@
+[Identificacion]
+Linea1=
+Linea2=
+Linea3=
+[Configuracion]
+TipoLetra=0
+Digitos=6
+Papel=1
+ControlUsado=1
+BD=Alvendi.fdb
+IP=127.0.0.1
+Carpeta=C:/Users/SergioN/Documents/Alvendi/Datos/
+[Sesion]
+Ruta=c:\program files (x86)\paez\alvendi\ejemplo\
+[Imagenes]
+Logo=
+AjustarLogo=0
+[Otros]
+Ejecuciones=1
+Clave=
